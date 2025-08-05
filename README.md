@@ -4,10 +4,10 @@ Objective: Identify phishing characteristics in a suspicious email sample. Tools
 
 
 https://drive.google.com/drive/folders/197ly_YQ04-pI9IKgQZyce7Mv9ujJiJz5?usp=drive_link 
-the above link provides the video how i analye an sample email
+the above link provides the video how i analyze an sample email
 
 https://github.com/rf-peixoto/phishing_pot.git
-i got the sample eml from the above repo
+i got the sample eml from this repo
 
 
 https://eml-analyzer.herokuapp.com/
